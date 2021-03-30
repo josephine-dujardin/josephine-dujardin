@@ -9,9 +9,9 @@ I am currently in Front En development and I am learning JavaScript language and
 
 - 🌱 I’m currently learning Web development.
 
-- 💬 Ask me about [here](www.linkedin.com/in/josephine-dujardin) ! I'm happy to help.
+- 💬 Ask me about [here](https://www.linkedin.com/in/josephine-dujardin/) ! I'm happy to help.
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josephine-dujardin)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-dujardin/)
 <!--
 **josephine-dujardin/josephine-dujardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
