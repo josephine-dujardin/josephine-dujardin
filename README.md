@@ -7,7 +7,7 @@ I am currently in Front En development and I am learning JavaScript language and
 
 - 🔭 I’m currently working on something cool 😄
 
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development.
 
 - 💬 Ask me about [here](www.linkedin.com/in/josephine-dujardin) ! I'm happy to help.
 
