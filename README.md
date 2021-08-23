@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I trained as a Fullstack web developer on the wagon. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and and improving the user experience. In addition, I also like working in a team and working on challenging projects.
-I am currently in Front End development and I'm learning JavaScript language and it's Vue.JS framework.
+I am currently in Front End development and I'm learning JavaScript language and it's Vue.JS framework. I also work with Webflow to create custom websites.
 
 ---
 
